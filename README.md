@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zagdiablo</h1>
-<h3 align="center">A passionate Full Stack Web developer & Beginner CTF player from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Django, Flutter, JavaScript, and C++**
 
