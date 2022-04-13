@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **adhitia.nugrahatkj@gmail.com**
 
-- ⚡ Fun fact **I don't really know what i'm doing.**
+- ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
