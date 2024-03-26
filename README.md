@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhitia Nugraha</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Django & Django REST framework, Docker, Kubernetes**
+- 🌱 I’m currently learning **Express JS, Node JS, Docker, Kubernetes**
 
 - 📫 How to reach me **adhitia.nugrahatkj@gmail.com**
 
