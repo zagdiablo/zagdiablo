@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, Electron, Docker, Kubernetes**
 
-- 📫 How to reach me **contact_zagdiablo@sent.com**
+- 📫 How to reach me **adhitia.nugrahatkj@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adhitia-nugraha/](https://www.linkedin.com/in/adhitia-nugraha/)
 
